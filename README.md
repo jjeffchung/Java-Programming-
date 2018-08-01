@@ -7,7 +7,7 @@ A Java Program which lets the user enter his/her name, Account ID, to get his/he
 
 2) A/B Guessing Game
 
-An A/B guessing game which uses a hashtable to keep track of various last 4 guess combinations, and associates them with a count of the next guess that followed. 
+An A/B guessing game which uses a hashtable to keep track of various last 4 guessing combinations, and associates them with a count of the next guess that followed. 
 
 3) Unique IP Addresses Program
 
