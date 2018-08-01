@@ -9,15 +9,19 @@ A Java Program which lets the user enter his/her name, Account ID, to get his/he
 
 An assignment where the goal was to create randomized and unique IP addresses and to sort them out.
 
-3) Drawing Squares with Recursion Program: Capstone Teamwork Lab D 
+3) Photo Album Program
+
+An assignment where the goal was to create a photo album application which displays thumbnail images of the photos. The user can then view the photos by selecting them. 
+
+4) Drawing Squares with Recursion Program: Capstone Teamwork Lab D 
 
 My first Java Capstone project lets the user draw squares and adding a square on each corner using Recursion. My classmate Tatsuya Hayashi and I worked on this Capstone project together. 
 
-4) Drawing Squares with Recursion Program: Capstone Teamwork Lab E
+5) Drawing Squares with Recursion Program: Capstone Teamwork Lab E
 
 The objective of my second Java Capstone project was to implement a new kind of stack that only accepts a single copy of an object in the stack, while ensuring that there are no duplicates.
 
-5) Student Class Roster Program: Capstone Teamwork Project 3
+6) Student Class Roster Program: Capstone Teamwork Project 3
 
 My third and final Java Capstone project lets the user enter specific details about the maximum amount of students to sign up for classes, while providing details about the student's name and to check if a class has reached the full roster capacity. My classmate Shaoliang Lin and I worked on this Capstone project together. 
 
