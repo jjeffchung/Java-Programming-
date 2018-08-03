@@ -5,7 +5,7 @@ A collection of my personal projects and Java Capstone assignments from my Java 
 
 A Java Program which lets the user enter his/her name, Account ID, to get his/her balance statement and to calculate the interest rate. 
 
-2) Useful Functions Library 
+2) Useful Functions Java Library 
 
 An assignment to create a library of useful Java methods along with a tester program  to use for other Java projects.
 
